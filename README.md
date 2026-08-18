@@ -1,2 +1,27 @@
-# interpreter-booking-system
-This system was created to help clients easily book sign language interpreters online. The project supports three main users: the client, the interpreter, and the admin.
+Interpreter Booking System
+
+Live Demo:
+https://interpreter-booking-2c704.web.app
+
+Features:
+- Client registration/login
+- Interpreter registration
+- Admin approval
+- Interpreter booking
+- Real-time booking status
+- Live tracking
+- Chat
+- Ratings and reviews
+- Receipts
+- Interpreter earnings
+- Admin payment management
+- Responsive mobile design
+
+Technologies:
+HTML
+CSS
+JavaScript
+Firebase Authentication
+Cloud Firestore
+Firebase Hosting
+Leaflet
